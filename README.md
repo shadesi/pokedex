@@ -1,4 +1,5 @@
 Project description
+
 This Pokédex application is a simple web app that displays a list of Pokémon fetched from the PokéAPI. Users can click on a Pokémon to see more details about it, including its height and an image. The application is built using HTML, CSS, and JavaScript, and it leverages the Bootstrap framework for styling.
 
 
